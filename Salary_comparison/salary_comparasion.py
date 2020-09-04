@@ -18,7 +18,7 @@ def biggest_salary(lst):
     if n[1] > salary:
       salary = n[1]
       nanme = n[0]
-  print(f"El empleado con mayor sueldo es: {name}")
+  print(f"The employee with the highest salary is: {name}")
 
 
 biggest_salary(load_employee())
