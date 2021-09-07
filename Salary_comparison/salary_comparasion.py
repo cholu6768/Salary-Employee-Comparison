@@ -17,7 +17,7 @@ def biggest_salary(lst):
   for n in lst:
     if n[1] > salary:
       salary = n[1]
-      nanme = n[0]
+      name = n[0]
   print(f"The employee with the highest salary is: {name}")
 
 
