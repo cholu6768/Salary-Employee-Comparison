@@ -2,7 +2,7 @@
 
 This script lets you insert the name and salary of an employee and tells you which employee has the highest salary.
 
-**The inner workings of this script is as it follows:**
+**The steps of this script are as it follows:**
 
 1. It starts by asking the user how many employees the user would like to upload.
 2. Next the name of the employee has to be given. 
